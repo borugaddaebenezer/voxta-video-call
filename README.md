@@ -13,7 +13,7 @@
 - ⚡ Tech Stack: React + Express + MongoDB + TailwindCSS + TanStack Query
 - 🧠 Global State Management with Zustand
 - 🚨 Robust Error Handling (Frontend & Backend)
-- 🚀 Free Deployment (Vercel + Render Ready)
+- 🚀 Deployed For Free On Render
 - 🎯 Built with Scalable Technologies like [Stream](https://getstream.io/)
 - ⏳ And much more!
 
