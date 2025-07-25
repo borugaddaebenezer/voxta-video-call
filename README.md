@@ -99,7 +99,7 @@ voxta-video-call-main/
 
 ## 🌐 Live Demo
 
-🔗 [https://voxta.vercel.app](https://voxta-28o4.onrender.com/)
+🔗 [Live-link](https://voxta-28o4.onrender.com/)
 
 ---
 
