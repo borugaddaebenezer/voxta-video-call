@@ -1,10 +1,3 @@
-Perfect! Based on the highlights and setup instructions you've given, here’s the **final `README.md`** content tailored for your `voxta-video-call` project.
-
----
-
-### ✅ Place this file at: `voxta-video-call-main/README.md`
-
-````markdown
 # 📹 Voxta — Real-Time Messaging & Video Calling App
 
 **Voxta** is a modern, full-stack web application that enables **real-time chat**, **1-on-1 video calls**, and **screen sharing**, built for scalability and collaboration. Designed with 32 unique UI themes and a multilingual approach, Voxta is ideal for global language exchange and virtual meetups.
@@ -106,22 +99,7 @@ voxta-video-call-main/
 
 ## 🌐 Live Demo
 
-🔗 [https://voxta.vercel.app](https://voxta.vercel.app)
-
-> *(Replace this with your actual deployed link if different)*
-
----
-
-## 🧠 Contribution
-
-PRs and feature ideas are welcome!
-Please open an issue before submitting large changes.
-
----
-
-## 🛡 License
-
-This project is licensed under the MIT License.
+🔗 [https://voxta.vercel.app](https://voxta-28o4.onrender.com/)
 
 ---
 
